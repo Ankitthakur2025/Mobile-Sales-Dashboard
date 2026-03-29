@@ -3,13 +3,7 @@
 The Mobile Sales Dashboard is an interactive Power BI project that analyzes mobile phone sales performance across different cities, brands, models, and payment methods.
 This dashboard focuses on MTD performance and Same Period Last Year comparison, helping to identify sales trends, customer buying behavior, and product performance.
 It enables quick decision-making through KPI indicators, dynamic filters, and visual insights.
-
-## 🎥 Dashboard Demo Video
-
-## 🎥 Dashboard Demo Video
-
-[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Dashboard%20Video-blue?style=for-the-badge&logo=github)](https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4)
-
+https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4
 **Dashboard**
 
 **1️⃣ Sales Overview Dashboard**
