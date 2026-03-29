@@ -7,7 +7,7 @@ It enables quick decision-making through KPI indicators, dynamic filters, and vi
 **Demo Video**
 
 
-**Dashboard Screenshots**
+**Dashboard**
 
 **1️⃣ Sales Overview Dashboard**
 
