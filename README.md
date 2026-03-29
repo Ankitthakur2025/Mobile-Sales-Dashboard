@@ -16,13 +16,13 @@ It enables quick decision-making through KPI indicators, dynamic filters, and vi
 _**Key components visible in the dashboard:**_
 
 + KPI Cards → Total Sales, Total Quantity, Transactions, Average Price
-City-wise sales visualization using Map
-Monthly quantity trend line chart
-Rating status performance bar chart
-Payment method distribution pie chart
-Brand performance table
-Top mobile models sales chart
-Sales trend by day name
++ City-wise sales visualization using Map
++ Monthly quantity trend line chart
++ Rating status performance bar chart
++ Payment method distribution pie chart
++ Brand performance table
++ Top mobile models sales chart
++ Sales trend by day name
 
 **2️⃣ MTD (Month-To-Date) Trend Analysis**
 
@@ -30,9 +30,9 @@ Sales trend by day name
 
 _**Shows:**_
 
-1.Month-wise sales growth pattern
-2.Daily level trend inside each month
-3.Identification of peak sales periods
++ Month-wise sales growth pattern
++ Daily level trend inside each month
++ Identification of peak sales periods
 
 **3️⃣ Same Period Last Year Comparison**
 
@@ -40,8 +40,8 @@ _**Shows:**_
 
 _**Shows:**_
 
-1.Year-wise sales comparison
-2.Quarter-wise performance analysis
-3.Monthly comparison between current year vs previous year
++ Year-wise sales comparison
++ Quarter-wise performance analysis
++ Monthly comparison between current year vs previous year
 
 
