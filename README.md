@@ -5,8 +5,7 @@ This dashboard focuses on MTD performance and Same Period Last Year comparison, 
 It enables quick decision-making through KPI indicators, dynamic filters, and visual insights.
 
 **Demo Video**
-
-<video src="https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4" controls width="100%"></video>
+[Click here to watch video](https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4)
 
 **Dashboard**
 
