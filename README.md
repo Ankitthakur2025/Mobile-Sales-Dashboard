@@ -6,6 +6,7 @@ It enables quick decision-making through KPI indicators, dynamic filters, and vi
 
 **Demo Video**
 
+<video src="https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4" controls width="100%"></video>
 
 **Dashboard**
 
