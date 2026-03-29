@@ -6,7 +6,9 @@ It enables quick decision-making through KPI indicators, dynamic filters, and vi
 
 ## 🎥 Dashboard Demo Video
 
-[▶️ Watch Demo](https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4)
+## 🎥 Dashboard Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Dashboard%20Video-blue?style=for-the-badge&logo=github)](https://github.com/Ankitthakur2025/Mobile-Sales-Dashboard/blob/main/My%20first%20dashboard.mp4)
 
 **Dashboard**
 
